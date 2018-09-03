@@ -1,3 +1,7 @@
+# This is a fork!
+This fork enables next/previous nagivation to jump between files. That's it.
+
+
 # Bookmarks package
 [![macOS Build Status](https://travis-ci.org/atom/bookmarks.svg?branch=master)](https://travis-ci.org/atom/bookmarks)
 [![Windows Build Status](https://ci.appveyor.com/api/projects/status/vjsf78pj4rw6ibcw/branch/master?svg=true)](https://ci.appveyor.com/project/Atom/bookmarks/branch/master)
